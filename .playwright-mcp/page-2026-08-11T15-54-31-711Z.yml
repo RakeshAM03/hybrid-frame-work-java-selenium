@@ -1,0 +1,374 @@
+- generic [ref=f13e1]:
+  - generic [ref=f13e8]:
+    - generic [ref=f13e9]:
+      - link [ref=f13e707] [cursor=pointer]:
+        - /url: /0mx92h3c99v58
+      - generic [ref=f13e15]:
+        - button [ref=f13e709] [cursor=pointer]:
+          - paragraph [ref=f13e19]: Dev QA Sandbox
+        - button [ref=f13e710] [cursor=pointer]:
+          - paragraph [ref=f13e26]: Workspace-1
+      - generic [ref=f13e29]:
+        - button [ref=f13e711] [cursor=pointer]:
+          - paragraph [ref=f13e36]: English
+        - generic [ref=f13e37]:
+          - button [ref=f13e712] [cursor=pointer]
+          - generic [ref=f13e46]: TR
+    - generic [ref=f13e50]:
+      - generic [ref=f13e51]:
+        - paragraph [ref=f13e53]: Jobs
+        - generic [ref=f13e55]:
+          - paragraph [ref=f13e61]: Jobs Overview
+          - paragraph [ref=f13e67]: Job Postings
+          - paragraph [ref=f13e73]: Job Campaigns
+      - generic [ref=f13e74]:
+        - paragraph [ref=f13e76]: Talent
+        - generic [ref=f13e78]:
+          - paragraph [ref=f13e85]: Applications
+          - paragraph [ref=f13e91]: Candidates
+          - paragraph [ref=f13e99]: Segments
+      - generic [ref=f13e100]:
+        - paragraph [ref=f13e102]: Engage
+        - generic [ref=f13e104]:
+          - paragraph [ref=f13e113]: Campaigns
+          - paragraph [ref=f13e120]: Messaging Hub
+      - generic [ref=f13e121]:
+        - paragraph [ref=f13e123]: Scheduling
+        - generic [ref=f13e125]:
+          - paragraph [ref=f13e131]: Interviews & Invites
+          - paragraph [ref=f13e136]: Scheduling Templates
+          - paragraph [ref=f13e141]: Calendar Settings
+          - paragraph [ref=f13e147]: Scheduling Settings
+      - generic [ref=f13e148]:
+        - paragraph [ref=f13e150]: Recruitment Tools
+        - generic [ref=f13e152]:
+          - paragraph [ref=f13e158]: Career Sites
+          - paragraph [ref=f13e164]: Landing Pages
+          - paragraph [ref=f13e170]: Chatbots
+          - paragraph [ref=f13e179]: QR Hub
+          - paragraph [ref=f13e185]: Forms
+      - generic [ref=f13e186]:
+        - paragraph [ref=f13e188]: Others
+        - generic [ref=f13e190]:
+          - paragraph [ref=f13e195]: Workflows
+          - paragraph [ref=f13e200]: Knowledge Hub
+          - paragraph [ref=f13e205]: Integrations
+          - paragraph [ref=f13e211]: Settings
+    - generic [ref=f13e214]:
+      - button [ref=f13e713] [cursor=pointer]:
+        - heading [level=6] [ref=f13e714]: All Jobs
+        - heading [level=6] [ref=f13e715]: (14)
+      - generic [ref=f13e224]:
+        - button [ref=f13e716] [cursor=pointer]:
+          - paragraph [ref=f13e231]: City
+        - button [ref=f13e717] [cursor=pointer]:
+          - paragraph [ref=f13e238]: Department
+        - button [ref=f13e718] [cursor=pointer]:
+          - paragraph [ref=f13e245]: Employment Type
+        - button [ref=f13e719] [cursor=pointer]:
+          - paragraph [ref=f13e252]: State Code
+        - paragraph [ref=f13e256] [cursor=pointer]: Add Filters
+      - generic [ref=f13e257]:
+        - generic [ref=f13e258]:
+          - generic [ref=f13e261]:
+            - textbox [ref=f13e720]:
+              - /placeholder: Search by Job Title or Job ID
+            - group
+          - generic [ref=f13e267]:
+            - button [ref=f13e721] [cursor=pointer]
+            - button [ref=f13e722] [cursor=pointer]: Job Requisition
+        - generic [ref=f13e275]:
+          - grid [ref=f13e279]:
+            - rowgroup [ref=f13e280]:
+              - row [ref=f13e723]:
+                - columnheader [ref=f13e724]:
+                  - generic [ref=f13e284]:
+                    - generic [ref=f13e285] [cursor=pointer]: Job Title
+                    - button [ref=f13e725] [cursor=pointer]
+            - rowgroup [ref=f13e290]:
+              - row [ref=f13e726]:
+                - columnheader [ref=f13e727]:
+                  - generic [ref=f13e294]:
+                    - generic [ref=f13e295] [cursor=pointer]: City
+                    - button [ref=f13e728] [cursor=pointer]
+                - columnheader [ref=f13e729]:
+                  - generic [ref=f13e302]:
+                    - generic [ref=f13e303] [cursor=pointer]: State
+                    - button [ref=f13e730] [cursor=pointer]
+                - columnheader [ref=f13e731]:
+                  - generic [ref=f13e310]:
+                    - generic [ref=f13e311] [cursor=pointer]: Total Application Count
+                    - button [ref=f13e732] [cursor=pointer]
+                - columnheader [ref=f13e733]:
+                  - generic [ref=f13e318]:
+                    - generic [ref=f13e319] [cursor=pointer]: Department
+                    - button [ref=f13e734] [cursor=pointer]
+                - columnheader [ref=f13e735]:
+                  - generic [ref=f13e326]:
+                    - generic [ref=f13e327]: Actions
+                    - button [ref=f13e736] [cursor=pointer]
+            - rowgroup [ref=f13e332]:
+              - row [ref=f13e737]:
+                - gridcell [ref=f13e738]:
+                  - link [ref=f13e739] [cursor=pointer]:
+                    - /url: /0mx92h3c99v58/jobs/jobs-overview/019f92d8-b7ef-7471-829b-c44420ee54fd
+                    - paragraph [ref=f13e337]: July 24 - QA test update
+              - row [ref=f13e740]:
+                - gridcell [ref=f13e741]:
+                  - link [ref=f13e742] [cursor=pointer]:
+                    - /url: /0mx92h3c99v58/jobs/jobs-overview/019f1c59-737c-70a5-a22e-1f0740fa31ac
+                    - paragraph [ref=f13e342]: July 1st TEST
+              - row [ref=f13e743]:
+                - gridcell [ref=f13e744]:
+                  - link [ref=f13e745] [cursor=pointer]:
+                    - /url: /0mx92h3c99v58/jobs/jobs-overview/019efb7c-3ad4-798d-84af-3795dc51e625
+                    - paragraph [ref=f13e347]: Job 1
+              - row [ref=f13e746]:
+                - gridcell [ref=f13e747]:
+                  - link [ref=f13e748] [cursor=pointer]:
+                    - /url: /0mx92h3c99v58/jobs/jobs-overview/019ebba3-ebba-779c-8c73-8aaa64d0d655
+                    - paragraph [ref=f13e352]: Enter 123
+              - row [ref=f13e749]:
+                - gridcell [ref=f13e750]:
+                  - link [ref=f13e751] [cursor=pointer]:
+                    - /url: /0mx92h3c99v58/jobs/jobs-overview/019eb552-b155-7ffd-81fc-76d317bb4a64
+                    - paragraph [ref=f13e357]: June 11
+              - row [ref=f13e752]:
+                - gridcell [ref=f13e753]:
+                  - link [ref=f13e754] [cursor=pointer]:
+                    - /url: /0mx92h3c99v58/jobs/jobs-overview/019e4f74-f99c-734b-90a5-b91af1a2e3f5
+                    - paragraph [ref=f13e362]: Shiva 12346
+              - row [ref=f13e755]:
+                - gridcell [ref=f13e756]:
+                  - link [ref=f13e757] [cursor=pointer]:
+                    - /url: /0mx92h3c99v58/jobs/jobs-overview/019e4fa6-018e-7beb-a40b-b392730cb1fa
+                    - paragraph [ref=f13e367]: Test job with station code
+              - row [ref=f13e758]:
+                - gridcell [ref=f13e759]:
+                  - link [ref=f13e760] [cursor=pointer]:
+                    - /url: /0mx92h3c99v58/jobs/jobs-overview/019e4f78-cf43-7c0f-a349-b9de5ae3bd1d
+                    - paragraph [ref=f13e372]: Shiva 12345
+              - row [ref=f13e761]:
+                - gridcell [ref=f13e762]:
+                  - link [ref=f13e763] [cursor=pointer]:
+                    - /url: /0mx92h3c99v58/jobs/jobs-overview/019e4f63-0b08-7310-8982-ff0635456042
+                    - paragraph [ref=f13e377]: Asdfg
+              - row [ref=f13e764]:
+                - gridcell [ref=f13e765]:
+                  - link [ref=f13e766] [cursor=pointer]:
+                    - /url: /0mx92h3c99v58/jobs/jobs-overview/019e472c-c26c-7a3d-921e-c2629b799bbb
+                    - paragraph [ref=f13e382]: Qwerty123
+              - row [ref=f13e767]:
+                - gridcell [ref=f13e768]:
+                  - link [ref=f13e769] [cursor=pointer]:
+                    - /url: /0mx92h3c99v58/jobs/jobs-overview/019e205c-9cd3-72e3-85cd-5a272d0a43aa
+                    - paragraph [ref=f13e387]: Clone of Test234
+              - row [ref=f13e770]:
+                - gridcell [ref=f13e771]:
+                  - link [ref=f13e772] [cursor=pointer]:
+                    - /url: /0mx92h3c99v58/jobs/jobs-overview/019e4730-dfb3-7976-8fbc-34ae0462127a
+                    - paragraph [ref=f13e392]: Qwerty1234
+              - row [ref=f13e773]:
+                - gridcell [ref=f13e774]:
+                  - link [ref=f13e775] [cursor=pointer]:
+                    - /url: /0mx92h3c99v58/jobs/jobs-overview/019e463d-f4fa-7fc0-a5c3-a170a0f9ae77
+                    - paragraph [ref=f13e397]: test123
+              - row [ref=f13e776]:
+                - gridcell [ref=f13e777]:
+                  - link [ref=f13e778] [cursor=pointer]:
+                    - /url: /0mx92h3c99v58/jobs/jobs-overview/019e46f5-e1be-77e6-9981-88be85cce5a3
+                    - paragraph [ref=f13e402]: Qwerty12
+            - rowgroup [ref=f13e403]:
+              - row [ref=f13e779]:
+                - gridcell [ref=f13e780]: Newport Beach
+                - gridcell [ref=f13e781]: California
+                - gridcell [ref=f13e782]: "28"
+                - gridcell [ref=f13e783]:
+                  - generic [ref=f13e784]:
+                    - button [disabled]:
+                      - paragraph: N/A
+                - gridcell [ref=f13e785]:
+                  - generic [ref=f13e414]:
+                    - button [ref=f13e786] [cursor=pointer]
+                    - button [ref=f13e787] [cursor=pointer]
+              - row [ref=f13e788]:
+                - gridcell [ref=f13e789]: Illiopolis
+                - gridcell [ref=f13e790]: Illinois
+                - gridcell [ref=f13e791]: "5"
+                - gridcell [ref=f13e792]:
+                  - generic [ref=f13e793]:
+                    - button [disabled]:
+                      - paragraph: N/A
+                - gridcell [ref=f13e794]:
+                  - generic [ref=f13e435]:
+                    - button [ref=f13e795] [cursor=pointer]
+                    - button [ref=f13e796] [cursor=pointer]
+              - row [ref=f13e797]:
+                - gridcell [ref=f13e798]: New York City
+                - gridcell [ref=f13e799]: New York
+                - gridcell [ref=f13e800]: "2"
+                - gridcell [ref=f13e801]:
+                  - generic [ref=f13e802]:
+                    - button [disabled]:
+                      - paragraph: N/A
+                - gridcell [ref=f13e803]:
+                  - generic [ref=f13e456]:
+                    - button [ref=f13e804] [cursor=pointer]
+                    - button [ref=f13e805] [cursor=pointer]
+              - row [ref=f13e806]:
+                - gridcell [ref=f13e807]: New York City
+                - gridcell [ref=f13e808]: New York
+                - gridcell [ref=f13e809]: "2"
+                - gridcell [ref=f13e810]:
+                  - generic [ref=f13e811]:
+                    - button [disabled]:
+                      - paragraph: N/A
+                - gridcell [ref=f13e812]:
+                  - generic [ref=f13e477]:
+                    - button [ref=f13e813] [cursor=pointer]
+                    - button [ref=f13e814] [cursor=pointer]
+              - row [ref=f13e815]:
+                - gridcell [ref=f13e816]: New York City
+                - gridcell [ref=f13e817]: New York
+                - gridcell [ref=f13e818]: "30"
+                - gridcell [ref=f13e819]:
+                  - generic [ref=f13e820]:
+                    - button [disabled]:
+                      - paragraph: N/A
+                - gridcell [ref=f13e821]:
+                  - generic [ref=f13e498]:
+                    - button [ref=f13e822] [cursor=pointer]
+                    - button [ref=f13e823] [cursor=pointer]
+              - row [ref=f13e824]:
+                - gridcell [ref=f13e825]: New York City
+                - gridcell [ref=f13e826]: New York
+                - gridcell [ref=f13e827]: "27"
+                - gridcell [ref=f13e828]:
+                  - generic [ref=f13e829]:
+                    - button [disabled]:
+                      - paragraph: N/A
+                - gridcell [ref=f13e830]:
+                  - generic [ref=f13e519]:
+                    - button [ref=f13e831] [cursor=pointer]
+                    - button [ref=f13e832] [cursor=pointer]
+              - row [ref=f13e833]:
+                - gridcell [ref=f13e834]: East Lake Weir
+                - gridcell [ref=f13e835]: Florida
+                - gridcell [ref=f13e836]: "5"
+                - gridcell [ref=f13e837]:
+                  - generic [ref=f13e838]:
+                    - button [disabled]:
+                      - paragraph: N/A
+                - gridcell [ref=f13e839]:
+                  - generic [ref=f13e540]:
+                    - button [ref=f13e840] [cursor=pointer]
+                    - button [ref=f13e841] [cursor=pointer]
+              - row [ref=f13e842]:
+                - gridcell [ref=f13e843]: New York City
+                - gridcell [ref=f13e844]: New York
+                - gridcell [ref=f13e845]: "28"
+                - gridcell [ref=f13e846]:
+                  - generic [ref=f13e847]:
+                    - button [disabled]:
+                      - paragraph: N/A
+                - gridcell [ref=f13e848]:
+                  - generic [ref=f13e561]:
+                    - button [ref=f13e849] [cursor=pointer]
+                    - button [ref=f13e850] [cursor=pointer]
+              - row [ref=f13e851]:
+                - gridcell [ref=f13e852]: New York City
+                - gridcell [ref=f13e853]: New York
+                - gridcell [ref=f13e854]: "29"
+                - gridcell [ref=f13e855]:
+                  - generic [ref=f13e856]:
+                    - button [disabled]:
+                      - paragraph: N/A
+                - gridcell [ref=f13e857]:
+                  - generic [ref=f13e582]:
+                    - button [ref=f13e858] [cursor=pointer]
+                    - button [ref=f13e859] [cursor=pointer]
+              - row [ref=f13e860]:
+                - gridcell [ref=f13e861]: New York City
+                - gridcell [ref=f13e862]: New York
+                - gridcell [ref=f13e863]: "25"
+                - gridcell [ref=f13e864]:
+                  - generic [ref=f13e865]:
+                    - button [disabled]:
+                      - paragraph: N/A
+                - gridcell [ref=f13e866]:
+                  - generic [ref=f13e603]:
+                    - button [ref=f13e867] [cursor=pointer]
+                    - button [ref=f13e868] [cursor=pointer]
+              - row [ref=f13e869]:
+                - gridcell [ref=f13e870]: Erin
+                - gridcell [ref=f13e871]: New York
+                - gridcell [ref=f13e872]: "2"
+                - gridcell [ref=f13e873]:
+                  - generic [ref=f13e874]:
+                    - button [disabled]:
+                      - paragraph: N/A
+                - gridcell [ref=f13e875]:
+                  - generic [ref=f13e624]:
+                    - button [ref=f13e876] [cursor=pointer]
+                    - button [ref=f13e877] [cursor=pointer]
+              - row [ref=f13e878]:
+                - gridcell [ref=f13e879]: New York City
+                - gridcell [ref=f13e880]: New York
+                - gridcell [ref=f13e881]: "27"
+                - gridcell [ref=f13e882]:
+                  - generic [ref=f13e883]:
+                    - button [disabled]:
+                      - paragraph: N/A
+                - gridcell [ref=f13e884]:
+                  - generic [ref=f13e645]:
+                    - button [ref=f13e885] [cursor=pointer]
+                    - button [ref=f13e886] [cursor=pointer]
+              - row [ref=f13e887]:
+                - gridcell [ref=f13e888]: New York City
+                - gridcell [ref=f13e889]: New York
+                - gridcell [ref=f13e890]: "25"
+                - gridcell [ref=f13e891]:
+                  - generic [ref=f13e892]:
+                    - button [disabled]:
+                      - paragraph: N/A
+                - gridcell [ref=f13e893]:
+                  - generic [ref=f13e666]:
+                    - button [ref=f13e894] [cursor=pointer]
+                    - button [ref=f13e895] [cursor=pointer]
+              - row [ref=f13e896]:
+                - gridcell [ref=f13e897]: New York City
+                - gridcell [ref=f13e898]: New York
+                - gridcell [ref=f13e899]: "25"
+                - gridcell [ref=f13e900]:
+                  - generic [ref=f13e901]:
+                    - button [disabled]:
+                      - paragraph: N/A
+                - gridcell [ref=f13e902]:
+                  - generic [ref=f13e687]:
+                    - button [ref=f13e903] [cursor=pointer]
+                    - button [ref=f13e904] [cursor=pointer]
+            - rowgroup
+          - generic [ref=f13e700]:
+            - paragraph [ref=f13e701]: "Items per page:"
+            - generic [ref=f13e702]:
+              - combobox [ref=f13e905] [cursor=pointer]: "25"
+              - textbox: "25"
+            - paragraph [ref=f13e704]: 1 to 14 of 14
+            - generic [ref=f13e705]:
+              - button [disabled]
+              - button [disabled]
+              - generic [ref=f13e706]: Page 1 of 1
+              - button [disabled]
+              - button [disabled]
+  - menu [ref=f13e908]:
+    - menuitem "TR Test Rigor jerimeb565@mvpmedix.com" [active] [ref=f13e909]:
+      - generic [ref=f13e910]: TR
+      - generic [ref=f13e914]:
+        - paragraph [ref=f13e915]: Test Rigor
+        - paragraph [ref=f13e916]: jerimeb565@mvpmedix.com
+    - separator [ref=f13e917]
+    - menuitem [ref=f13e918] [cursor=pointer]:
+      - paragraph [ref=f13e924]: View Profile
+    - separator [ref=f13e925]
+    - menuitem [ref=f13e926] [cursor=pointer]:
+      - paragraph [ref=f13e931]: Log Out

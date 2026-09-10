@@ -1,0 +1,349 @@
+- generic [ref=f60e8]:
+  - generic [ref=f60e9]:
+    - link [ref=f60e11] [cursor=pointer]:
+      - /url: /0mx92h3c99v58
+      - img "Joveo Logo" [ref=f60e13]
+    - generic [ref=f60e15]:
+      - button [ref=f60e16] [cursor=pointer]:
+        - paragraph [ref=f60e19]: Dev QA Sandbox
+      - button [ref=f60e22] [cursor=pointer]:
+        - paragraph [ref=f60e26]: Workspace-1
+    - generic [ref=f60e29]:
+      - button [ref=f60e30] [cursor=pointer]:
+        - paragraph [ref=f60e36]: English
+      - generic [ref=f60e37]:
+        - button "Help & Support — opens Joveo Help Center in a new tab" [ref=f60e38] [cursor=pointer]
+        - generic [ref=f60e46]: TR
+  - generic [ref=f60e48]:
+    - generic [ref=f60e49]:
+      - generic [ref=f60e50] [cursor=pointer]
+      - generic [ref=f60e53]:
+        - button [ref=f60e54] [cursor=pointer]
+        - heading "Settings" [level=6] [ref=f60e57]
+    - generic [ref=f60e58]:
+      - paragraph [ref=f60e66]: Domains
+      - generic [ref=f60e67]:
+        - paragraph [ref=f60e69]: User Management
+        - generic [ref=f60e71]:
+          - paragraph [ref=f60e86]: Manage Users
+          - paragraph [ref=f60e92]: Manage Inboxes
+      - generic [ref=f60e93]:
+        - paragraph [ref=f60e95]: Preferences
+        - generic [ref=f60e97]:
+          - paragraph [ref=f60e106]: Branding Hub
+          - paragraph [ref=f60e114]: Media Library
+          - paragraph [ref=f60e121]: Translation Hub
+      - generic [ref=f60e122]:
+        - paragraph [ref=f60e124]: Template Library
+        - paragraph [ref=f60e132]: Communication Templates
+      - generic [ref=f60e133]:
+        - paragraph [ref=f60e135]: Organization Settings
+        - paragraph [ref=f60e143]: Data Policy
+  - generic [ref=f60e146]:
+    - button [ref=f60e149] [cursor=pointer]:
+      - heading "All Jobs" [level=6] [ref=f60e150]
+      - heading "(14)" [level=6] [ref=f60e151]
+    - generic [ref=f60e156]:
+      - button "City filter" [ref=f60e161] [cursor=pointer]:
+        - paragraph [ref=f60e163]: City
+      - button "Department filter" [ref=f60e168] [cursor=pointer]:
+        - paragraph [ref=f60e170]: Department
+      - button "Employment Type filter" [ref=f60e175] [cursor=pointer]:
+        - paragraph [ref=f60e177]: Employment Type
+      - button "State Code filter" [ref=f60e182] [cursor=pointer]:
+        - paragraph [ref=f60e184]: State Code
+      - paragraph [ref=f60e188] [cursor=pointer]: Add Filters
+    - generic [ref=f60e189]:
+      - generic [ref=f60e190]:
+        - generic [ref=f60e193]:
+          - textbox "Search by Job Title or Job ID" [ref=f60e198]
+          - group
+        - generic [ref=f60e199]:
+          - button "Manage columns" [ref=f60e200] [cursor=pointer]
+          - button [ref=f60e203] [cursor=pointer]
+      - generic [ref=f60e207]:
+        - grid [ref=f60e211]:
+          - rowgroup [ref=f60e212]:
+            - row [ref=f60e213]:
+              - columnheader "Job Title Column menu" [ref=f60e214]:
+                - generic [ref=f60e216]:
+                  - generic [ref=f60e217] [cursor=pointer]: Job Title
+                  - button "Column menu" [ref=f60e219] [cursor=pointer]
+          - rowgroup [ref=f60e222]:
+            - row [ref=f60e223]:
+              - columnheader "City Column menu" [ref=f60e224]:
+                - generic [ref=f60e226]:
+                  - generic [ref=f60e227] [cursor=pointer]: City
+                  - button "Column menu" [ref=f60e229] [cursor=pointer]
+              - columnheader "State Column menu" [ref=f60e232]:
+                - generic [ref=f60e234]:
+                  - generic [ref=f60e235] [cursor=pointer]: State
+                  - button "Column menu" [ref=f60e237] [cursor=pointer]
+              - columnheader "Total Application Count Column menu" [ref=f60e240]:
+                - generic [ref=f60e242]:
+                  - generic [ref=f60e243] [cursor=pointer]: Total Application Count
+                  - button "Column menu" [ref=f60e245] [cursor=pointer]
+              - columnheader "Department Column menu" [ref=f60e248]:
+                - generic [ref=f60e250]:
+                  - generic [ref=f60e251] [cursor=pointer]: Department
+                  - button "Column menu" [ref=f60e253] [cursor=pointer]
+              - columnheader "Actions Column menu" [ref=f60e256]:
+                - generic [ref=f60e258]:
+                  - generic [ref=f60e259]: Actions
+                  - button "Column menu" [ref=f60e261] [cursor=pointer]
+          - rowgroup [ref=f60e264]:
+            - row [ref=f60e265]:
+              - gridcell [ref=f60e266]:
+                - link [ref=f60e268] [cursor=pointer]:
+                  - /url: /0mx92h3c99v58/jobs/jobs-overview/019f92d8-b7ef-7471-829b-c44420ee54fd
+                  - paragraph [ref=f60e269]: July 24 - QA test update
+            - row [ref=f60e270]:
+              - gridcell [ref=f60e271]:
+                - link [ref=f60e273] [cursor=pointer]:
+                  - /url: /0mx92h3c99v58/jobs/jobs-overview/019f1c59-737c-70a5-a22e-1f0740fa31ac
+                  - paragraph [ref=f60e274]: July 1st TEST
+            - row [ref=f60e275]:
+              - gridcell [ref=f60e276]:
+                - link [ref=f60e278] [cursor=pointer]:
+                  - /url: /0mx92h3c99v58/jobs/jobs-overview/019efb7c-3ad4-798d-84af-3795dc51e625
+                  - paragraph [ref=f60e279]: Job 1
+            - row [ref=f60e280]:
+              - gridcell [ref=f60e281]:
+                - link [ref=f60e283] [cursor=pointer]:
+                  - /url: /0mx92h3c99v58/jobs/jobs-overview/019ebba3-ebba-779c-8c73-8aaa64d0d655
+                  - paragraph [ref=f60e284]: Enter 123
+            - row [ref=f60e285]:
+              - gridcell [ref=f60e286]:
+                - link [ref=f60e288] [cursor=pointer]:
+                  - /url: /0mx92h3c99v58/jobs/jobs-overview/019eb552-b155-7ffd-81fc-76d317bb4a64
+                  - paragraph [ref=f60e289]: June 11
+            - row [ref=f60e290]:
+              - gridcell [ref=f60e291]:
+                - link [ref=f60e293] [cursor=pointer]:
+                  - /url: /0mx92h3c99v58/jobs/jobs-overview/019e4f74-f99c-734b-90a5-b91af1a2e3f5
+                  - paragraph [ref=f60e294]: Shiva 12346
+            - row [ref=f60e295]:
+              - gridcell [ref=f60e296]:
+                - link [ref=f60e298] [cursor=pointer]:
+                  - /url: /0mx92h3c99v58/jobs/jobs-overview/019e4f78-cf43-7c0f-a349-b9de5ae3bd1d
+                  - paragraph [ref=f60e299]: Shiva 12345
+            - row [ref=f60e300]:
+              - gridcell [ref=f60e301]:
+                - link [ref=f60e303] [cursor=pointer]:
+                  - /url: /0mx92h3c99v58/jobs/jobs-overview/019e4fa6-018e-7beb-a40b-b392730cb1fa
+                  - paragraph [ref=f60e304]: Test job with station code
+            - row [ref=f60e305]:
+              - gridcell [ref=f60e306]:
+                - link [ref=f60e308] [cursor=pointer]:
+                  - /url: /0mx92h3c99v58/jobs/jobs-overview/019e4f63-0b08-7310-8982-ff0635456042
+                  - paragraph [ref=f60e309]: Asdfg
+            - row [ref=f60e310]:
+              - gridcell [ref=f60e311]:
+                - link [ref=f60e313] [cursor=pointer]:
+                  - /url: /0mx92h3c99v58/jobs/jobs-overview/019e472c-c26c-7a3d-921e-c2629b799bbb
+                  - paragraph [ref=f60e314]: Qwerty123
+            - row [ref=f60e315]:
+              - gridcell [ref=f60e316]:
+                - link [ref=f60e318] [cursor=pointer]:
+                  - /url: /0mx92h3c99v58/jobs/jobs-overview/019e205c-9cd3-72e3-85cd-5a272d0a43aa
+                  - paragraph [ref=f60e319]: Clone of Test234
+            - row [ref=f60e320]:
+              - gridcell [ref=f60e321]:
+                - link [ref=f60e323] [cursor=pointer]:
+                  - /url: /0mx92h3c99v58/jobs/jobs-overview/019e4730-dfb3-7976-8fbc-34ae0462127a
+                  - paragraph [ref=f60e324]: Qwerty1234
+            - row [ref=f60e325]:
+              - gridcell [ref=f60e326]:
+                - link [ref=f60e328] [cursor=pointer]:
+                  - /url: /0mx92h3c99v58/jobs/jobs-overview/019e463d-f4fa-7fc0-a5c3-a170a0f9ae77
+                  - paragraph [ref=f60e329]: test123
+            - row [ref=f60e330]:
+              - gridcell [ref=f60e331]:
+                - link [ref=f60e333] [cursor=pointer]:
+                  - /url: /0mx92h3c99v58/jobs/jobs-overview/019e46f5-e1be-77e6-9981-88be85cce5a3
+                  - paragraph [ref=f60e334]: Qwerty12
+          - rowgroup [ref=f60e335]:
+            - row [ref=f60e336]:
+              - gridcell "Newport Beach" [ref=f60e337]
+              - gridcell "California" [ref=f60e338]
+              - gridcell "28" [ref=f60e339]
+              - gridcell [ref=f60e340]:
+                - generic "No status transitions available for this job." [ref=f60e343]:
+                  - button "N/A" [disabled]:
+                    - paragraph: N/A
+              - gridcell [ref=f60e344]:
+                - generic [ref=f60e346]:
+                  - button "Actions" [ref=f60e347] [cursor=pointer]
+                  - button "Open apply page" [ref=f60e352] [cursor=pointer]
+            - row [ref=f60e357]:
+              - gridcell "Illiopolis" [ref=f60e358]
+              - gridcell "Illinois" [ref=f60e359]
+              - gridcell "5" [ref=f60e360]
+              - gridcell [ref=f60e361]:
+                - generic "No status transitions available for this job." [ref=f60e364]:
+                  - button "N/A" [disabled]:
+                    - paragraph: N/A
+              - gridcell [ref=f60e365]:
+                - generic [ref=f60e367]:
+                  - button "Actions" [ref=f60e368] [cursor=pointer]
+                  - button "Open apply page" [ref=f60e373] [cursor=pointer]
+            - row [ref=f60e378]:
+              - gridcell "New York City" [ref=f60e379]
+              - gridcell "New York" [ref=f60e380]
+              - gridcell "2" [ref=f60e381]
+              - gridcell [ref=f60e382]:
+                - generic "No status transitions available for this job." [ref=f60e385]:
+                  - button "N/A" [disabled]:
+                    - paragraph: N/A
+              - gridcell [ref=f60e386]:
+                - generic [ref=f60e388]:
+                  - button "Actions" [ref=f60e389] [cursor=pointer]
+                  - button "Open apply page" [ref=f60e394] [cursor=pointer]
+            - row [ref=f60e399]:
+              - gridcell "New York City" [ref=f60e400]
+              - gridcell "New York" [ref=f60e401]
+              - gridcell "2" [ref=f60e402]
+              - gridcell [ref=f60e403]:
+                - generic "No status transitions available for this job." [ref=f60e406]:
+                  - button "N/A" [disabled]:
+                    - paragraph: N/A
+              - gridcell [ref=f60e407]:
+                - generic [ref=f60e409]:
+                  - button "Actions" [ref=f60e410] [cursor=pointer]
+                  - button "Open apply page" [ref=f60e415] [cursor=pointer]
+            - row [ref=f60e420]:
+              - gridcell "New York City" [ref=f60e421]
+              - gridcell "New York" [ref=f60e422]
+              - gridcell "30" [ref=f60e423]
+              - gridcell [ref=f60e424]:
+                - generic "No status transitions available for this job." [ref=f60e427]:
+                  - button "N/A" [disabled]:
+                    - paragraph: N/A
+              - gridcell [ref=f60e428]:
+                - generic [ref=f60e430]:
+                  - button "Actions" [ref=f60e431] [cursor=pointer]
+                  - button "Open apply page" [ref=f60e436] [cursor=pointer]
+            - row [ref=f60e441]:
+              - gridcell "New York City" [ref=f60e442]
+              - gridcell "New York" [ref=f60e443]
+              - gridcell "27" [ref=f60e444]
+              - gridcell [ref=f60e445]:
+                - generic "No status transitions available for this job." [ref=f60e448]:
+                  - button "N/A" [disabled]:
+                    - paragraph: N/A
+              - gridcell [ref=f60e449]:
+                - generic [ref=f60e451]:
+                  - button "Actions" [ref=f60e452] [cursor=pointer]
+                  - button "Open apply page" [ref=f60e457] [cursor=pointer]
+            - row [ref=f60e462]:
+              - gridcell "New York City" [ref=f60e463]
+              - gridcell "New York" [ref=f60e464]
+              - gridcell "28" [ref=f60e465]
+              - gridcell [ref=f60e466]:
+                - generic "No status transitions available for this job." [ref=f60e469]:
+                  - button "N/A" [disabled]:
+                    - paragraph: N/A
+              - gridcell [ref=f60e470]:
+                - generic [ref=f60e472]:
+                  - button "Actions" [ref=f60e473] [cursor=pointer]
+                  - button "Open apply page" [ref=f60e478] [cursor=pointer]
+            - row [ref=f60e483]:
+              - gridcell "East Lake Weir" [ref=f60e484]
+              - gridcell "Florida" [ref=f60e485]
+              - gridcell "5" [ref=f60e486]
+              - gridcell [ref=f60e487]:
+                - generic "No status transitions available for this job." [ref=f60e490]:
+                  - button "N/A" [disabled]:
+                    - paragraph: N/A
+              - gridcell [ref=f60e491]:
+                - generic [ref=f60e493]:
+                  - button "Actions" [ref=f60e494] [cursor=pointer]
+                  - button "Open apply page" [ref=f60e499] [cursor=pointer]
+            - row [ref=f60e504]:
+              - gridcell "New York City" [ref=f60e505]
+              - gridcell "New York" [ref=f60e506]
+              - gridcell "29" [ref=f60e507]
+              - gridcell [ref=f60e508]:
+                - generic "No status transitions available for this job." [ref=f60e511]:
+                  - button "N/A" [disabled]:
+                    - paragraph: N/A
+              - gridcell [ref=f60e512]:
+                - generic [ref=f60e514]:
+                  - button "Actions" [ref=f60e515] [cursor=pointer]
+                  - button "Open apply page" [ref=f60e520] [cursor=pointer]
+            - row [ref=f60e525]:
+              - gridcell "New York City" [ref=f60e526]
+              - gridcell "New York" [ref=f60e527]
+              - gridcell "25" [ref=f60e528]
+              - gridcell [ref=f60e529]:
+                - generic "No status transitions available for this job." [ref=f60e532]:
+                  - button "N/A" [disabled]:
+                    - paragraph: N/A
+              - gridcell [ref=f60e533]:
+                - generic [ref=f60e535]:
+                  - button "Actions" [ref=f60e536] [cursor=pointer]
+                  - button "Open apply page" [ref=f60e541] [cursor=pointer]
+            - row [ref=f60e546]:
+              - gridcell "Erin" [ref=f60e547]
+              - gridcell "New York" [ref=f60e548]
+              - gridcell "2" [ref=f60e549]
+              - gridcell [ref=f60e550]:
+                - generic "No status transitions available for this job." [ref=f60e553]:
+                  - button "N/A" [disabled]:
+                    - paragraph: N/A
+              - gridcell [ref=f60e554]:
+                - generic [ref=f60e556]:
+                  - button "Actions" [ref=f60e557] [cursor=pointer]
+                  - button "Open apply page" [ref=f60e562] [cursor=pointer]
+            - row [ref=f60e567]:
+              - gridcell "New York City" [ref=f60e568]
+              - gridcell "New York" [ref=f60e569]
+              - gridcell "27" [ref=f60e570]
+              - gridcell [ref=f60e571]:
+                - generic "No status transitions available for this job." [ref=f60e574]:
+                  - button "N/A" [disabled]:
+                    - paragraph: N/A
+              - gridcell [ref=f60e575]:
+                - generic [ref=f60e577]:
+                  - button "Actions" [ref=f60e578] [cursor=pointer]
+                  - button "Open apply page" [ref=f60e583] [cursor=pointer]
+            - row [ref=f60e588]:
+              - gridcell "New York City" [ref=f60e589]
+              - gridcell "New York" [ref=f60e590]
+              - gridcell "25" [ref=f60e591]
+              - gridcell [ref=f60e592]:
+                - generic "No status transitions available for this job." [ref=f60e595]:
+                  - button "N/A" [disabled]:
+                    - paragraph: N/A
+              - gridcell [ref=f60e596]:
+                - generic [ref=f60e598]:
+                  - button "Actions" [ref=f60e599] [cursor=pointer]
+                  - button "Open apply page" [ref=f60e604] [cursor=pointer]
+            - row [ref=f60e609]:
+              - gridcell "New York City" [ref=f60e610]
+              - gridcell "New York" [ref=f60e611]
+              - gridcell "25" [ref=f60e612]
+              - gridcell [ref=f60e613]:
+                - generic "No status transitions available for this job." [ref=f60e616]:
+                  - button "N/A" [disabled]:
+                    - paragraph: N/A
+              - gridcell [ref=f60e617]:
+                - generic [ref=f60e619]:
+                  - button "Actions" [ref=f60e620] [cursor=pointer]
+                  - button "Open apply page" [ref=f60e625] [cursor=pointer]
+          - rowgroup
+          - rowgroup
+          - rowgroup
+          - rowgroup
+        - generic [ref=f60e632]:
+          - paragraph [ref=f60e633]: "Items per page:"
+          - generic [ref=f60e634]:
+            - 'combobox "Items per page: 25" [ref=f60e635] [cursor=pointer]': "25"
+            - textbox: "25"
+          - paragraph [ref=f60e636]: 1 to 14 of 14
+          - generic [ref=f60e637]:
+            - button "first page" [disabled]
+            - button "previous page" [disabled]
+            - generic [ref=f60e638]: Page 1 of 1
+            - button "next page" [disabled]
+            - button "last page" [disabled]

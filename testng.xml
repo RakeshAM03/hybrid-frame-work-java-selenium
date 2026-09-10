@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SeleniumLoginSuite" parallel="false" verbose="1">
+
+    <listeners>
+        <listener class-name="listeners.ScreenshotListener"/>
+    </listeners>
+
+    <test name="LoginTests">
+        <classes>
+            <class name="tests.LoginTest"/>
+        </classes>
+    </test>
+
+    <test name="BrandingHubTests">
+        <classes>
+            <class name="tests.BrandingHubTest"/>
+        </classes>
+    </test>
+
+    <test name="BrandingHubViewTests">
+        <classes>
+            <class name="tests.BrandingHubViewTest"/>
+        </classes>
+    </test>
+
+</suite>

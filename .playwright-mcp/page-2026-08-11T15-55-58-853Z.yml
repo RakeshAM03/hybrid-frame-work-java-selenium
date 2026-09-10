@@ -1,0 +1,51 @@
+- generic [ref=f22e3]:
+  - generic [ref=f22e8]:
+    - generic [ref=f22e9]:
+      - img "company logo" [ref=f22e124]
+      - generic [ref=f22e10]:
+        - heading "Log in to Your Account" [level=4] [ref=f22e11]
+        - heading "Welcome back! Select method to log in:" [level=6] [ref=f22e12]
+    - generic [ref=f22e13]:
+      - generic [ref=f22e14]:
+        - paragraph [ref=f22e16]: Email
+        - generic [ref=f22e19]:
+          - generic [ref=f22e20]:
+            - textbox [invalid] [ref=f22e21]: not-an-email
+            - group
+          - paragraph [ref=f22e125]: Please enter a valid email address
+      - generic [ref=f22e23]:
+        - paragraph [ref=f22e26]: Password
+        - generic [ref=f22e30]:
+          - textbox [ref=f22e31]: AnyPassword123
+          - group
+        - button [ref=f22e34] [cursor=pointer]
+      - generic [ref=f22e37]:
+        - button [active] [ref=f22e38] [cursor=pointer]:
+          - heading "Log In" [level=6] [ref=f22e39]
+        - generic [ref=f22e40]:
+          - paragraph [ref=f22e41]: Forgot Password?
+          - paragraph [ref=f22e42]: Login with SAML SSO
+      - separator [ref=f22e44]
+      - button [ref=f22e46] [cursor=pointer]:
+        - heading "Log in with Google" [level=6] [ref=f22e49]
+  - generic [ref=f22e50]:
+    - generic [ref=f22e51]:
+      - paragraph [ref=f22e52]: Interested in learning all the ways Joveo can help you rock your talent sourcing goals?
+      - button [ref=f22e53] [cursor=pointer]:
+        - heading "Let's Talk" [level=6] [ref=f22e54]
+    - generic [ref=f22e62]:
+      - generic [ref=f22e64]:
+        - heading "It's really great to be able to see all of our sources in one central location, it helps us understand where we're getting the most bang for our buck. The other thing that I love about Joveo is the track to hire feature. That's been fundamental in terms of us being able to track specifically by source how our candidates are performing once they hit our funnel." [level=6] [ref=f22e65]
+        - generic [ref=f22e67]:
+          - heading "Director, Recruitment Marketing" [level=6] [ref=f22e68]
+          - paragraph [ref=f22e69]: HealthTrust Workforce Solutions
+      - generic [ref=f22e71]:
+        - heading "We've had the pleasure of collaborating with Joveo for our media and advertising needs, and our experience has been nothing short of exceptional. Joveo's capabilities in providing innovative media solutions are unmatched in the industry. Their understanding of the complexities of digital advertising, has significantly enhanced our recruitment marketing strategies." [level=6] [ref=f22e72]
+        - generic [ref=f22e74]:
+          - heading "Program Manager" [level=6] [ref=f22e75]
+          - paragraph [ref=f22e76]: Global Gig Employer
+      - generic [ref=f22e78]:
+        - heading "I just go to the Joveo dashboard and I can see all the data I need in one place. It’s a much more efficient way to purchase media and helps us make more data-driven decisions. Joveo has a product which is solving one of the biggest problems talent acquisition teams are dealing with today!" [level=6] [ref=f22e79]
+        - generic [ref=f22e81]:
+          - heading "Director, Recruitment Marketing" [level=6] [ref=f22e82]
+          - paragraph [ref=f22e83]: Global IT Services and Consulting Company
